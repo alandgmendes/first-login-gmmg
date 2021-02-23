@@ -6,4 +6,4 @@ https://hatchful.shopify.com/preview.
 
 Em breve, adicionarei mais funcionalidades
 
-alandouglas godinho Mendes
+Alandouglas Godinho Mendes
