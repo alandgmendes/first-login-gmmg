@@ -1,16 +1,9 @@
-# hello_world
+#GMMG
 
-A new Flutter project.
+Este e um mockup de um aplicativo que estou desenvolvendo para a fazenda 
+onde moro. O nome dele e ficticio, a logo foi gerada no dominio 
+https://hatchful.shopify.com/preview.
 
-## Getting Started
+Em breve, adicionarei mais funcionalidades
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+alandouglas godinho Mendes
